@@ -8,5 +8,7 @@ public class Demo {
 	public void check() {
 		
 		System.out.println("Check Git Bash");
+		System.out.println("recheck gitbash here");
 	}
+	
 }
